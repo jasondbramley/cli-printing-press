@@ -1,5 +1,15 @@
 # Changelog
 
+## [4.14.1](https://github.com/mvanhorn/cli-printing-press/compare/v4.14.0...v4.14.1) (2026-05-24)
+
+
+### Bug Fixes
+
+* **cli:** follow one-hop client helpers in reimplementation check ([#2048](https://github.com/mvanhorn/cli-printing-press/issues/2048)) ([bb830d0](https://github.com/mvanhorn/cli-printing-press/commit/bb830d0290fb42413c12264e7340ceaa63d1a568))
+* **cli:** scope traffic-analysis protection evidence ([#2047](https://github.com/mvanhorn/cli-printing-press/issues/2047)) ([e6292dd](https://github.com/mvanhorn/cli-printing-press/commit/e6292ddd2bc853fad1e55930ef8c79140772eccb))
+* **cli:** sync chained dependent resources ([#2051](https://github.com/mvanhorn/cli-printing-press/issues/2051)) ([abe5f8a](https://github.com/mvanhorn/cli-printing-press/commit/abe5f8abb17d6728d937f818068b0e84d9ef6a2b))
+* **skills:** distinguish RunE missing input from help ([#2046](https://github.com/mvanhorn/cli-printing-press/issues/2046)) ([fce8cff](https://github.com/mvanhorn/cli-printing-press/commit/fce8cfff4da61e32f1ffa6b8f96d3a0a0dfe5f5a))
+
 ## [4.14.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.13.1...v4.14.0) (2026-05-24)
 
 
